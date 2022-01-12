@@ -1,0 +1,2 @@
+# ijls-alliance-university
+INTERNATIONAL JOURNAL OF LAW AND SOCIAL SCIENCES (IJLS)
