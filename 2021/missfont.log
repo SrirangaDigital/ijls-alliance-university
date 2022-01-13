@@ -1,0 +1,7 @@
+mktexpk --mfmode ljfour --bdpi 600 --mag 3+0/600 --dpi 1800 book
+mktexpk --mfmode ljfour --bdpi 600 --mag 9+0/600 --dpi 5400 book
+mktexpk --mfmode ljfour --bdpi 600 --mag 2+0/600 --dpi 1200 book
+mktexpk --mfmode ljfour --bdpi 600 --mag 9+0/600 --dpi 5400 book
+mktexpk --mfmode ljfour --bdpi 600 --mag 2+0/600 --dpi 1200 book
+mktexpk --mfmode ljfour --bdpi 600 --mag 3+0/600 --dpi 1800 book
+mktexpk --mfmode ljfour --bdpi 600 --mag 3+0/600 --dpi 1800 book
