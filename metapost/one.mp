@@ -147,7 +147,7 @@ beginfig(5);
 
   h := arclength (llcorner p0--ulcorner p0) - arclength (llcorner p5--ulcorner p5);
 
-  p2 = thelabel.lrt(btex \micro International Journal Of Law And Social Sciences etex, (.9dist, h));
+  p2 = thelabel.lrt(btex \micro International Journal of Law and Social Sciences etex, (.65dist, h-1.5));
   draw p0 withcolor blue;
   
   draw p2;% shifted (dist, -.35cm);

@@ -7,4 +7,5 @@
 2021/test.*
 metapost/test.*
 metapost/*.mpx
+metapost/*.log
 2021/data-from-website/
