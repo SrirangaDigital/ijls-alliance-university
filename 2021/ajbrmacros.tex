@@ -5,15 +5,19 @@
 \usepackage{natbib,dcolumn,amsmath}
 \usepackage{epsfig,hhline}
 \usepackage{pifont}
+\usepackage{enumitem}
+\usepackage{scrextend}
+\deffootnote[1em]{1em}{1em}{\textsuperscript{\thefootnotemark}\,}
 \usepackage{txfonts}
 \usepackage[obeyspaces]{url}
 \usepackage{graphicx,lscape}
 \textwidth=17.25cm
 \textheight=22cm
-\usepackage{fancyhdr,enumerate,rotating}
+\usepackage{fancyhdr,rotating}
 \pagestyle{fancy}
 \renewcommand\headrulewidth{1pt}
 \renewcommand\footrulewidth{0pt}
+
 
 \usepackage[labelsep=newline,justification=centering,font=bf]{caption}
 \def\tbr{\tabularnewline}
@@ -26,6 +30,8 @@
 \parskip=8pt
 \everypar{\noindent}
 \headheight=14pt
+
+
 
 \makeatletter
 \renewcommand\section{\@startsection {section}{1}{\z@}%
@@ -130,6 +136,7 @@
 \cfoot{}
 \lfoot{\setlength\fboxsep{2pt}
 \includegraphics{one.5}\raise3pt\hbox{\calculate{\thepage}}\fbox{\thepage}}
+
 
 \newbox\partialpage  
 \makeatletter
