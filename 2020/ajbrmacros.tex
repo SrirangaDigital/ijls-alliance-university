@@ -5,6 +5,7 @@
 \usepackage{natbib,dcolumn,amsmath}
 \usepackage{epsfig,hhline}
 \usepackage{pifont}
+\usepackage[leftmargin=1em]{quoting}
 \usepackage{enumitem}
 \usepackage{scrextend}
 \deffootnote[1em]{1em}{1em}{\textsuperscript{\thefootnotemark}\,}
@@ -97,6 +98,11 @@
 
 \def\heading#1{\noi{\large\textbf{#1}}}
 \def\subhead#1{\medbreak\noindent\textit{#1}\smallbreak}
+
+%%user defined commands
+%~ \newenvironment{myquote}[1]{\par\bgroup\sizenine\leftskip=10pt\rightskip=10pt#1}{\par\egroup}
+%~ \newenvironment{myquote}[1]{\list{}{\leftmargin=#1 \rightmargin=#1}\item[]}{\endlist}
+
 %~ \newenvironment{articleabstract}
 %~ {%
 %~ \begin{center}
