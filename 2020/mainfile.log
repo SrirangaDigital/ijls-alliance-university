@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=latex 2021.3.9)  22 JAN 2022 18:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=latex 2021.3.9)  24 JAN 2022 18:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -712,18 +712,265 @@ Package multicol Warning: I moved some lines to the next page.
 File: one.5 Graphic file (type eps)
 <one.5>
 File: one.5 Graphic file (type eps)
- <one.5> [13])
+ <one.5> [13]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 14 might be wrong on input line 516
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [14]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 15 might be wrong on input line 556
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [15]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 16 might be wrong on input line 617
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [16]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 17 might be wrong on input line 701
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [17])
 File: one.5 Graphic file (type eps)
  <one.5>
 File: one.5 Graphic file (type eps)
- <one.5> [14] (./mainfile.aux) ) 
-Here is how much of TeX's memory you used:
- 6966 strings out of 481240
- 100362 string characters out of 5920404
- 383015 words of memory out of 5000000
- 22090 multiletter control sequences out of 15000+600000
- 557596 words of font info for 95 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 50000
- 44i,17n,52p,856b,556s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <one.5> [18]
+(./src/04-Domain_Name_Disputes_and_the_Rising.tex
 
-Output written on mainfile.dvi (14 pages, 87568 bytes).
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 19 might be wrong on input line 71.
+
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [19]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 20 might be wrong on input line 126
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [20]
+Overfull \hbox (54.97498pt too wide) in paragraph at lines 142--142
+  [][]\OT1/txr/m/n/9 THE HIS-TORY OF ICANN, $\OT1/txtt/m/n/9 https : / / www . 
+icann . org / history$\OT1/txr/m/n/9 #: :text=ICANN%20was%20founded%20in%201998
+,the%20U.S.%20with%20gl
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--164
+  [][]\OT1/txr/m/n/9 UNIFORM DO-MAIN DIS-PUTE RES-O-LU-TION POL-ICY, $\OT1/txtt
+/m/n/9 https : / / www . icann . org / resources / pages /
+ []
+
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 21 might be wrong on input line 189
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [21]
+Underfull \hbox (badness 10000) in paragraph at lines 202--202
+  [][]\OT1/txr/m/n/9 THE UNI-FORM DO-MAIN DIS-PUTE RES-O-LU-TION POL-ICY, $\OT1
+/txtt/m/n/9 https : / / www . icann . org / resources / pages /
+ []
+
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 22 might be wrong on input line 247
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [22]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 23 might be wrong on input line 301
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [23]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 24 might be wrong on input line 364
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [24]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 25 might be wrong on input line 413
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [25]
+File: one.5 Graphic file (type eps)
+ <one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [26])
+(./src/05-An_Analysis_of_the_Essentiality_of_Constitutional.tex
+LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <10.95> not available
+(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 27.
+
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 27 might be wrong on input line 66.
+
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [27]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 28 might be wrong on input line 124
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [28]
+Underfull \hbox (badness 10000) in paragraph at lines 177--177
+  [][]\OT1/txr/m/n/9 Apurva Vish-wanath, \OT1/txr/m/it/9 Sabari-mala ma-jor-ity
+ rul-ing: Re-view pend-ing, scope widened, \OT1/txr/m/n/9 THE IN-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--177
+ \OT1/txr/m/n/9 DIAN EX-PRESS, (Nov 15th, 2019, 9:55AM), $\OT1/txtt/m/n/9 https
+ : / / indianexpress . com / article / explained /
+ []
+
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 29 might be wrong on input line 186
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [29]
+File: one.5 Graphic file (type eps)
+ <one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [30]
+Underfull \hbox (badness 10000) in paragraph at lines 266--266
+  [][]\OT1/txr/m/n/9 Apoorva Mand-hani, \OT1/txr/m/it/9 \Con-sti-tu-tional Mora
+l-ity: A Dan-ger-ous Weapon, It Will Die with Its
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--266
+ \OT1/txr/m/it/9 Birth: K. K Venu-gopal", \OT1/txr/m/n/9 LIVE LAW, (9$[]$ Dec, 
+2018, 7:14PM), $\OT1/txtt/m/n/9 https : / / www . livelaw . in /
+ []
+
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 31 might be wrong on input line 320
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [31])
+File: one.5 Graphic file (type eps)
+ <one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [32] (./src/06-Bio_Terrorism_A_Brief.tex
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 33 might be wrong on input line 72.
+
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [33]
+Underfull \hbox (badness 6078) in paragraph at lines 73--92
+\OT1/txr/m/n/10.95 Bioterrorism is the dis-sem-i-na-tion of bi-o-log-i-cal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--103
+  [][]\OT1/txr/m/n/9 Weapons of mass de-struc-tion, $\OT1/txtt/m/n/9 https : / 
+/ www . globalsecurity . org / wmd / intro / bio _ smallpox . htm \ # : [] : te
+xt = The \
+ []
+
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 34 might be wrong on input line 130
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [34]
+Underfull \hbox (badness 10000) in paragraph at lines 169--169
+  [][]$\OT1/txtt/m/n/9 https : / / www . unog . ch / 80256EE600585943 / (httpPa
+ges ) /29B727532FECBE96C12571860035A6DB ? OpenDoc ument  )
+ []
+
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 35 might be wrong on input line 174
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [35]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 36 might be wrong on input line 229
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [36])
+File: one.5 Graphic file (type eps)
+ <one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [37] (./mainfile.aux) ) 
+Here is how much of TeX's memory you used:
+ 6979 strings out of 481240
+ 100815 string characters out of 5920404
+ 383015 words of memory out of 5000000
+ 22093 multiletter control sequences out of 15000+600000
+ 558203 words of font info for 96 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 50000
+ 44i,18n,52p,856b,556s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on mainfile.dvi (37 pages, 230088 bytes).
