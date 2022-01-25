@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=latex 2021.3.9)  24 JAN 2022 18:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=latex 2021.3.9)  25 JAN 2022 18:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -959,18 +959,382 @@ Package multicol Warning: I moved some lines to the next page.
 File: one.5 Graphic file (type eps)
 <one.5>
 File: one.5 Graphic file (type eps)
- <one.5> [36])
+ <one.5> [36]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 37 might be wrong on input line 290
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [37]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 38 might be wrong on input line 331
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [38])
 File: one.5 Graphic file (type eps)
  <one.5>
 File: one.5 Graphic file (type eps)
- <one.5> [37] (./mainfile.aux) ) 
+ <one.5> [39]
+(./src/07-Tussle_Between_the_us_and_Iran.tex
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 40 might be wrong on input line 75.
+
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [40]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 41 might be wrong on input line 141
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [41]
+LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <12> not available
+(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 153.
+
+
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 42 might be wrong on input line 179
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [42]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 43 might be wrong on input line 249
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [43]
+Underfull \hbox (badness 10000) in paragraph at lines 256--256
+  [][]\OT1/txr/m/n/9 Matthew S. Schwartz. [] NPR, (July 20, 2020). $\OT1/txtt/m
+/n/9 https : / / www . npr . org / 2020 / 07 / 12 / 890194877 /
+ []
+
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 44 might be wrong on input line 297
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [44]
+Underfull \hbox (badness 10000) in paragraph at lines 315--315
+  [][]\OT1/txr/m/n/9 Tucker Hig-gins & Amanda Ma-cias, \OT1/txr/m/it/9 `Trump s
+ays US will `de-stroy' Ira-nian gun-boats that
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--315
+ \OT1/txr/m/it/9 ha-rass Amer-i-can ships, \OT1/txr/m/n/9 CNBC, (April 22, 2020
+) $\OT1/txtt/m/n/9 https : / / www . cnbc . com / 2020 / 04 / 22 /
+ []
+
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 45 might be wrong on input line 359
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [45])
+File: one.5 Graphic file (type eps)
+ <one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [46]
+(./src/08-Judicial_Review_and_Fundamental_Rights.tex
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 47 might be wrong on input line 75.
+
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [47]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 48 might be wrong on input line 122
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [48]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 49 might be wrong on input line 185
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [49]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 50 might be wrong on input line 250
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [50]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 51 might be wrong on input line 303
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [51]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 52 might be wrong on input line 369
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [52]
+Overfull \hbox (3.43245pt too wide) in paragraph at lines 392--396
+[]\OT1/txr/m/n/10.95 "Judicial re-view of Con-sti-tu-tional Amendments.-
+ []
+
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 53 might be wrong on input line 421
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [53]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 54 might be wrong on input line 479
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [54])
+File: one.5 Graphic file (type eps)
+ <one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [55]
+(./src/09-Indias_Dire_Need_For_a_New.tex
+Underfull \hbox (badness 10000) in paragraph at lines 26--26
+  [][]\OT1/txr/m/n/9 Ijphrd Au-gust 2020, SCRIBD avail-able on-line at $\OT1/tx
+tt/m/n/9 https : / / www . scribd . com / document / 495356157 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+ \OT1/txtt/m/n/9 / / pubmed . ncbi . nlm . nih . gov / 30212163 / # : [] : text
+ = Evidence \ %20suggests \ %20that \ %20the \ %20likelihood ,[]  will \
+ []
+
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 56 might be wrong on input line 63.
+
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [56]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 57 might be wrong on input line 112
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [57]
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+  [][]\OT1/txr/m/n/9 ESTIMATED ECO-NOMIC IM-PACT FROM COVID { 19 IN IN-DIA 2020
+, by Sec-tor, Pub-lished by
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+ \OT1/txr/m/n/9 Statista Re-search De-part-ment, avail-able on-line at $\OT1/tx
+tt/m/n/9 https : / / www . statista . com / statistics / 1107798 /
+ []
+
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 58 might be wrong on input line 166
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [58]
+Underfull \hbox (badness 6252) in paragraph at lines 180--180
+ \OT1/txr/m/n/9 avail-able on-line at $\OT1/txtt/m/n/9 https : / / www . statis
+ta . com / statistics / 1111487 / coronavirus-[]impact-[]onunemploymentrate / #
+ :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--180
+ [] \OT1/txtt/m/n/9 : text = COVID \ %2D19 \ %20impact \ %20on \ %20unemploymen
+t \ %20rate \ %20in \ %20India \ %202020 \ %2D2021  \ &text =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--180
+ \OT1/txtt/m/n/9 In \ %20January \ %202021 \ %2C \ %20India \ %20saw ,[] rate \
+ %20 of \ %20 over \ %20 six \ %20 percent . \ & text = A \
+ []
+
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 59 might be wrong on input line 229
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [59]
+Underfull \hbox (badness 10000) in paragraph at lines 249--249
+  [][]\OT1/txr/m/n/9 Harleen Kaur, CAN THE IN-DIAN LE-GAL FRAME-WORK DEAL WITH 
+THE COVID-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 249--249
+ \OT1/txr/m/n/9 19 PAN-DEMIC? A RE-VIEW OF THE EPI-DEMIC DIS-EASES ACT BAR AND 
+BENCH
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 249--249
+ \OT1/txr/m/n/9 - IN-DIAN LE-GAL NEWS, avail-able on-line at $\OT1/txtt/m/n/9 h
+ttps : / / www . barandbench . com / columns /
+ []
+
+
+Overfull \hbox (3.91405pt too wide) in paragraph at lines 249--249
+ \OT1/txtt/m/n/9 can-[]the-[]indian-[]legal-[]framework-[]deal-[]with-[]the-[]c
+ovid-[]19-[]pandemic-[]a-[]review-[]of-[]the-[]epidemics-[]diseases-[]act$| 
+ []
+
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 60 might be wrong on input line 282
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [60]
+Overfull \hbox (61.83893pt too wide) in paragraph at lines 305--305
+ \OT1/txtt/m/n/9 https : / / www . orfonline . org / research / indias-[]fight-
+[]against-[]health-[]emergencies-[]in-[]search-[]of-[]a-[]legalarchitecture-[]6
+3884/$| 
+ []
+
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 61 might be wrong on input line 368
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [61]
+File: one.5 Graphic file (type eps)
+ <one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [62]
+File: one.5 Graphic file (type eps)
+ <one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [63])
+File: one.5 Graphic file (type eps)
+ <one.5>
+File: one.5 Graphic file (type eps)
+
+<one.5> [64] (./src/10-Globalisation_and_its_Implication_on_Law.tex
+Underfull \hbox (badness 10000) in paragraph at lines 65--65
+  [][]\OT1/txr/m/it/9 World Con-fer-ences on Women, \OT1/txr/m/n/9 UN-WOMEN, (D
+ec. 10, 2020), $\OT1/txtt/m/n/9 http : / / www . unwomen . org / en / how-[]wew
+ork /
+ []
+
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 65 might be wrong on input line 66.
+
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [65]
+Underfull \hbox (badness 10000) in paragraph at lines 107--107
+  [][]\OT1/txr/m/n/9 ILO,NORMLEX,$\OT1/txtt/m/n/9 https : / / www . ilo . org /
+ dyn / normlex / en / f \ &p = NORMLEX / PUB : 12100 : 0 :: NO :: P12100 _ INST
+RU MENT _ ID :
+ []
+
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 66 might be wrong on input line 119
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [66]
+Underfull \hbox (badness 10000) in paragraph at lines 155--155
+  [][]\OT1/txr/m/n/9 ILO, \OT1/txr/m/it/9 Gen-der Equal-ity and Non-Discriminat
+ion, $\OT1/txtt/m/n/9 www . ilo . org / legacy / english / inwork / cb-[]policy
+guide /
+ []
+
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 67 might be wrong on input line 196
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [67])
+File: one.5 Graphic file (type eps)
+ <one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [68] (./mainfile.aux) ) 
 Here is how much of TeX's memory you used:
- 6979 strings out of 481240
- 100815 string characters out of 5920404
+ 6997 strings out of 481240
+ 101388 string characters out of 5920404
  383015 words of memory out of 5000000
- 22093 multiletter control sequences out of 15000+600000
- 558203 words of font info for 96 fonts, out of 8000000 for 9000
+ 22099 multiletter control sequences out of 15000+600000
+ 558810 words of font info for 97 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 50000
  44i,18n,52p,856b,556s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on mainfile.dvi (37 pages, 230088 bytes).
+Output written on mainfile.dvi (68 pages, 416352 bytes).
