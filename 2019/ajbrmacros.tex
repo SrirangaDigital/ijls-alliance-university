@@ -1,0 +1,158 @@
+\usepackage{float,colortbl,color}
+\floatstyle{plain}
+\floatplacement{figure}{H}
+\usepackage{multicol,multirow,array,longtable,threeparttable,booktabs}
+\usepackage{natbib,dcolumn,amsmath}
+\usepackage{epsfig,hhline}
+\usepackage{pifont}
+\usepackage[leftmargin=1em]{quoting}
+\usepackage{enumitem}
+\usepackage{scrextend}
+\deffootnote[1em]{1em}{1em}{\textsuperscript{\thefootnotemark}\,}
+\usepackage{txfonts}
+\usepackage[obeyspaces]{url}
+\usepackage{graphicx,lscape}
+\textwidth=17.25cm
+\textheight=22cm
+\usepackage{fancyhdr,rotating}
+\pagestyle{fancy}
+\renewcommand\headrulewidth{1pt}
+\renewcommand\footrulewidth{0pt}
+
+
+\usepackage[labelsep=newline,justification=centering,font=bf]{caption}
+\def\tbr{\tabularnewline}
+\hoffset=-1in
+\oddsidemargin=0.7in
+\setlength{\fboxsep}{0pt}
+\footskip66pt
+\columnsep=18pt
+\renewcommand\sectionmark[1]{}
+\parskip=8pt
+\everypar{\noindent}
+\headheight=14pt
+
+
+
+\makeatletter
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+                                   {-2ex \@plus -0.3ex \@minus -.2ex}%
+                                   {0.5ex \@plus.10ex}%
+                                   {\normalfont\large\bfseries}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+                                     {-2ex\@plus -0.3ex \@minus -.2ex}%
+                                     {0.8ex \@plus .2ex}%
+                                     {\normalfont\large\bfseries}}
+
+\bibpunct{(}{)}{;}{a}{}{,}
+
+\long\def\@footnotetext#1{\insert\footins{%
+    \reset@font\footnotesize
+    \interlinepenalty\interfootnotelinepenalty
+    \splittopskip\footnotesep
+    \splitmaxdepth \dp\strutbox \floatingpenalty \@MM
+    \hsize\columnwidth \@parboxrestore
+    \protected@edef\@currentlabel{%
+       \csname p@footnote\endcsname\@thefnmark
+    }%
+    \color@begingroup
+      \@makefntext{%
+        \rule\z@\footnotesep\ignorespaces#1\@finalstrut\strutbox}%
+    \color@endgroup}}%
+
+\renewenvironment{thebibliography}[1]
+     {\section*{\refname}%
+      \@mkboth{\MakeUppercase\refname}{\MakeUppercase\refname}%
+      \list{\@biblabel{\@arabic\c@enumiv}}%
+           {\settowidth\labelwidth{\@biblabel{#1}}%
+            \leftmargin\labelwidth
+            %\advance\leftmargin\labelsep
+            \@openbib@code
+            \usecounter{enumiv}%
+            \let\p@enumiv\@empty
+            \renewcommand\theenumiv{\@arabic\c@enumiv}}%
+      \sloppy
+      \clubpenalty4000
+      \@clubpenalty \clubpenalty
+      \widowpenalty4000%
+      \sfcode`\.\@m}
+     {\def\@noitemerr
+       {\@latex@warning{Empty `thebibliography' environment}}%
+      \endlist}
+
+\makeatother
+
+\def\noi{\noindent}
+
+\def\articletitle#1{%
+\thispagestyle{plain}
+\begin{center}
+{\large\textsf{\textbf{ #1}}}
+\end{center}
+}
+
+\def\articleauthor#1{%
+\begin{center}
+{\it #1}
+\end{center}}
+
+\def\heading#1{\noi{\large\textbf{#1}}}
+\def\subhead#1{\medbreak\noindent\textit{#1}\smallbreak}
+
+%%user defined commands
+%~ \newenvironment{myquote}[1]{\par\bgroup\sizenine\leftskip=10pt\rightskip=10pt#1}{\par\egroup}
+%~ \newenvironment{myquote}[1]{\list{}{\leftmargin=#1 \rightmargin=#1}\item[]}{\endlist}
+
+%~ \newenvironment{articleabstract}
+%~ {%
+%~ \begin{center}
+%~ \textbf{Abstract}
+%~ \end{center}
+%~ \begin{quotation}
+%~ \small\it}
+%~ {\end{quotation}}
+
+\long\def\beginarticleabstract{\centerline{\textbf{Abstract}}\begin{quotation}\small\it}
+\def\endarticleabstract{\end{quotation}}
+
+\newdimen\calc
+\def\calculate#1{%
+\setbox0=\hbox{\epsfbox{one.5}}
+\setbox1=\hbox{\fbox{#1}}%
+\calc=\textwidth%
+\global\advance\calc-\wd0 %112.44714pt%
+\global\advance\calc-\wd1%
+\global\advance\calc-2.8pt
+\color{blue}\rule{\calc}{0.1pt}}
+
+\def\AJBR{%
+\setbox0=\hbox{AJBR}%
+\calc=\textwidth%
+\global\advance\calc-\wd0%
+\color{blue}\rule{\calc}{0.1pt}AJBR}
+
+\lhead{}
+\fancypagestyle{plain}{%
+\renewcommand\headrulewidth{0pt}
+\setlength\fboxsep{2pt}
+\fancyhf{}
+\lfoot{\includegraphics{one.5}\raise3pt\hbox{\calculate{\thepage}}%
+\fbox{\thepage}}}
+
+\cfoot{}
+\lfoot{\setlength\fboxsep{2pt}
+\includegraphics{one.5}\raise3pt\hbox{\calculate{\thepage}}\fbox{\thepage}}
+
+
+\newbox\partialpage  
+\makeatletter
+\def\dotfill{%
+  \leavevmode
+  \cleaders\hb@xt@ .44em{\hss\_\hss}\hfill
+  \kern\z@}
+
+\makeatother
+
+\def\tit#1{\textit{#1}}
+\def\tbf#1{\textbf{#1}}
+\def\etal{{\textit{et al}}}
