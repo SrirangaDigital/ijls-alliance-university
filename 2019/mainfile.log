@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=latex 2021.3.9)  27 JAN 2022 19:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=latex 2021.3.9)  28 JAN 2022 18:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -701,14 +701,224 @@ File: one.5 Graphic file (type eps)
 File: one.5 Graphic file (type eps)
  <one.5>
 File: one.5 Graphic file (type eps)
- <one.5> [10] (./mainfile.aux) ) 
-Here is how much of TeX's memory you used:
- 6922 strings out of 481240
- 99682 string characters out of 5920404
- 376015 words of memory out of 5000000
- 22052 multiletter control sequences out of 15000+600000
- 554540 words of font info for 85 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 50000
- 44i,18n,52p,1045b,548s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <one.5> [10]
+(./src/02-Right_to_Education_in_India.tex
 
-Output written on mainfile.dvi (10 pages, 64084 bytes).
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 11 might be wrong on input line 59.
+
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [11]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 12 might be wrong on input line 94.
+
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [12]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 13 might be wrong on input line 158
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [13]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 14 might be wrong on input line 189
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [14]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 15 might be wrong on input line 246
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [15]
+Overfull \hbox (39.71397pt too wide) in paragraph at lines 285--285
+ \OT1/txtt/m/n/9 politics / occupy-[]ugc-[]smriti-[]irani-[]higher-[]education-
+[]modi-[]government-[]wto-[]gats-[]chennaihrd-[]ministry-[]digital-[]india /
+ []
+
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 16 might be wrong on input line 303
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [16]
+Underfull \hbox (badness 10000) in paragraph at lines 327--327
+  [][]\OT1/txr/m/n/9 Deccan Her-ald, No Funds for RTE, says Maya, (2010) $\OT1/
+txtt/m/n/9 https : / / www . deccanherald . com / content / 62144 /
+ []
+
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 17 might be wrong on input line 343
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [17]
+File: one.5 Graphic file (type eps)
+ <one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [18])
+File: one.5 Graphic file (type eps)
+ <one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [19]
+(./src/03-The_Implementation_of_the_Concept.tex
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 20 might be wrong on input line 71.
+
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [20]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 21 might be wrong on input line 146
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [21]
+File: one.5 Graphic file (type eps)
+ <one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [22]
+Underfull \hbox (badness 10000) in paragraph at lines 216--216
+  [][]\OT1/txr/m/n/9 The Hol-ly-wood Re-porter, \OT1/txr/m/it/9 \China Asia-Ind
+ia the prob-lem ar-eas in cam-corder piracy cases" \OT1/txr/m/n/9 8th De-cem-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--216
+ \OT1/txr/m/n/9 ber 2014, page 10, (Jan.30,2018, 01:05 PM) $\OT1/txtt/m/n/9 htt
+ps : / / www . hollywoodreporter . com / movies / movie-[]news /
+ []
+
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 23 might be wrong on input line 259
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [23]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 24 might be wrong on input line 316
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [24]
+File: one.5 Graphic file (type eps)
+ <one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [25]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 26 might be wrong on input line 443
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [26])
+File: one.5 Graphic file (type eps)
+ <one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [27]
+(./src/04-Parliamentary_Privileges_in_Indian_Governance.tex
+File: one.5 Graphic file (type eps)
+ <one.5>
+File: one.5 Graphic file (type eps)
+ <one.5>
+[28]
+LaTeX Font Info:    Trying to load font information for TS1+txr on input line 8
+0.
+ (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ts1txr.fd
+File: ts1txr.fd 2000/12/15 v3.1
+)
+Missing character: There is no â in font txtt!
+Missing character: There is no € in font txtt!
+Missing character: There is no º in font txtt!
+File: one.5 Graphic file (type eps)
+ <one.5>
+File: one.5 Graphic file (type eps)
+
+<one.5> [29]
+File: one.5 Graphic file (type eps)
+ <one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [30]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 31 might be wrong on input line 233
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [31]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 32 might be wrong on input line 314
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [32])
+File: one.5 Graphic file (type eps)
+ <one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [33]
+(./src/05-The_Arbitration_Amendment_Act.tex
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 34 might be wrong on input line 69.
+
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [34])
+File: one.5 Graphic file (type eps)
+ <one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [35] (./mainfile.aux) ) 
+Here is how much of TeX's memory you used:
+ 6976 strings out of 481240
+ 100780 string characters out of 5920404
+ 379015 words of memory out of 5000000
+ 22090 multiletter control sequences out of 15000+600000
+ 557614 words of font info for 95 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 50000
+ 44i,18n,52p,1045b,608s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on mainfile.dvi (35 pages, 214104 bytes).
