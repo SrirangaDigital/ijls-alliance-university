@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=latex 2021.4.6)  1 JUN 2022 13:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=latex 2021.4.6)  1 JUN 2022 17:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -547,17 +547,17 @@ Underfull \vbox (badness 10000) detected at line 42
 
 )
 LaTeX Font Info:    Trying to load font information for OT1+txss on input line 
-10.
+13.
  (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txss.fd
 File: ot1txss.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 10.40245pt on input line 10.
+(Font)              scaled to size 10.40245pt on input line 13.
 File: one.5 Graphic file (type eps)
  <one.5>
 File: one.5 Graphic file (type eps)
  <one.5>
-[1
+[5
 
 ] (./src/01-A_Critical_Comparative_Analysis.tex
 LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
@@ -598,12 +598,12 @@ File: ts1txr.fd 2000/12/15 v3.1
 )
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 2 might be wrong on input line 95.
+(multicol)                Footnotes on page 1 might be wrong on input line 95.
 
 File: one.5 Graphic file (type eps)
 <one.5>
 File: one.5 Graphic file (type eps)
- <one.5> [2]
+ <one.5> [1]
 LaTeX Font Info:    Trying to load font information for OT1+txtt on input line 
 110.
  (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txtt.fd
@@ -611,70 +611,74 @@ File: ot1txtt.fd 2000/12/15 v3.1
 )
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 3 might be wrong on input line 128.
+(multicol)                Footnotes on page 2 might be wrong on input line 134.
 
 
 LaTeX Font Info:    Font shape `OT1/txss/m/it' in size <10.95> not available
-(Font)              Font shape `OT1/txss/m/sl' tried instead on input line 128.
+(Font)              Font shape `OT1/txss/m/sl' tried instead on input line 134.
 
 LaTeX Font Info:    Font shape `OT1/txss/m/sl' will be
-(Font)              scaled to size 10.40245pt on input line 128.
+(Font)              scaled to size 10.40245pt on input line 134.
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [2]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 3 might be wrong on input line 205.
+
+
 File: one.5 Graphic file (type eps)
 <one.5>
 File: one.5 Graphic file (type eps)
  <one.5> [3]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 4 might be wrong on input line 197.
+(multicol)                Footnotes on page 4 might be wrong on input line 287.
 
 
 File: one.5 Graphic file (type eps)
 <one.5>
 File: one.5 Graphic file (type eps)
  <one.5> [4]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 5 might be wrong on input line 267.
-
-
-File: one.5 Graphic file (type eps)
-<one.5>
-File: one.5 Graphic file (type eps)
- <one.5> [5]
-Underfull \hbox (badness 10000) in paragraph at lines 270--270
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
  \OT1/txtt/m/n/10 http : / / www . thehindu . com / news / cities / Hyderabad /
  modus -[] operandi -[] how -[] you -[] getcheated /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 292--292
+Underfull \hbox (badness 10000) in paragraph at lines 320--320
  \OT1/txtt/m/n/10 http : / / articles . economictimes . indiatimes . com / 2010
  -[] 12 -[] 27 / news / 28392816 _ 1 _ mrp -[] consumer -[] forum -[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 312--312
+Underfull \hbox (badness 10000) in paragraph at lines 346--346
  \OT1/txtt/m/n/10 http : / / www . business -[] standard . com / article / pf /
  how -[] not -[] to -[] get -[] exploited -[] by -[] dual -[] pricing -[]
  []
 
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 6 might be wrong on input line 321.
-
-
 File: one.5 Graphic file (type eps)
 <one.5>
 File: one.5 Graphic file (type eps)
- <one.5> [6]
-Underfull \hbox (badness 10000) in paragraph at lines 345--345
+ <one.5> [5]
+Underfull \hbox (badness 10000) in paragraph at lines 389--389
  \OT1/txtt/m/n/10 http : / / www . thehindu . com / news / cities / Hyderabad /
  now -[] stopping -[] that -[] mrp -[] misuse -[] is -[] just -[] an -[]
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 7 might be wrong on input line 358.
+(multicol)                Footnotes on page 6 might be wrong on input line 408.
+
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [6]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 7 might be wrong on input line 468.
 
 
 File: one.5 Graphic file (type eps)
@@ -683,7 +687,7 @@ File: one.5 Graphic file (type eps)
  <one.5> [7]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 8 might be wrong on input line 413.
+(multicol)                Footnotes on page 8 might be wrong on input line 515.
 
 
 File: one.5 Graphic file (type eps)
@@ -692,59 +696,59 @@ File: one.5 Graphic file (type eps)
  <one.5> [8]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 9 might be wrong on input line 467.
+(multicol)                Footnotes on page 9 might be wrong on input line 564.
 
 
 File: one.5 Graphic file (type eps)
 <one.5>
 File: one.5 Graphic file (type eps)
  <one.5> [9]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 10 might be wrong on input line 515
-.
-
-File: one.5 Graphic file (type eps)
-<one.5>
-File: one.5 Graphic file (type eps)
- <one.5> [10]
-Underfull \hbox (badness 10000) in paragraph at lines 540--540
+Underfull \hbox (badness 10000) in paragraph at lines 588--588
   [][]$\OT1/txtt/m/n/10 http : / / www . freshfields . com / uploadedFiles / Si
 teWide / Knowledge / 00805 _ BS _ MBD _ COM _ Consumer _ Law _
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 546--546
+Underfull \hbox (badness 10000) in paragraph at lines 594--594
  \OT1/txtt/m/n/10 https : / / www . gov . uk / government / uploads / system / 
 uploads / attachment _ data / file / 284442 / oft1008 .
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 11 might be wrong on input line 547
+(multicol)                Footnotes on page 10 might be wrong on input line 595
 .
 
 File: one.5 Graphic file (type eps)
 <one.5>
 File: one.5 Graphic file (type eps)
- <one.5> [11]
+ <one.5> [10]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 12 might be wrong on input line 613
+(multicol)                Footnotes on page 11 might be wrong on input line 661
 .
 
 File: one.5 Graphic file (type eps)
 <one.5>
 File: one.5 Graphic file (type eps)
- <one.5> [12])
+ <one.5> [11])
 File: one.5 Graphic file (type eps)
  <one.5>
 File: one.5 Graphic file (type eps)
- <one.5> [13]
+ <one.5> [12]
 (./src/02-Religion_as_a_panacea_for_Environmental.tex
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 14 might be wrong on input line 45.
+(multicol)                Footnotes on page 13 might be wrong on input line 53.
+
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [13]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 14 might be wrong on input line 95.
 
 
 File: one.5 Graphic file (type eps)
@@ -753,136 +757,120 @@ File: one.5 Graphic file (type eps)
  <one.5> [14]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 15 might be wrong on input line 87.
-
+(multicol)                Footnotes on page 15 might be wrong on input line 140
+.
 
 File: one.5 Graphic file (type eps)
 <one.5>
 File: one.5 Graphic file (type eps)
  <one.5> [15]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 16 might be wrong on input line 120
-.
-
 File: one.5 Graphic file (type eps)
-<one.5>
+ <one.5>
 File: one.5 Graphic file (type eps)
  <one.5> [16]
-File: one.5 Graphic file (type eps)
- <one.5>
-File: one.5 Graphic file (type eps)
- <one.5> [17]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 18 might be wrong on input line 271
+(multicol)                Footnotes on page 17 might be wrong on input line 279
 .
 
 File: one.5 Graphic file (type eps)
 <one.5>
 File: one.5 Graphic file (type eps)
- <one.5> [18])
+ <one.5> [17])
 File: one.5 Graphic file (type eps)
  <one.5>
 File: one.5 Graphic file (type eps)
- <one.5> [19]
+ <one.5> [18]
 (./src/03-Prostitution_Sexual_autonomy.tex
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 20 might be wrong on input line 69.
+(multicol)                Footnotes on page 19 might be wrong on input line 69.
 
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [19]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 20 might be wrong on input line 122
+.
 
 File: one.5 Graphic file (type eps)
 <one.5>
 File: one.5 Graphic file (type eps)
  <one.5> [20]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 21 might be wrong on input line 116
-.
-
-File: one.5 Graphic file (type eps)
-<one.5>
-File: one.5 Graphic file (type eps)
- <one.5> [21]
 File: one.5 Graphic file (type eps)
  <one.5>
 File: one.5 Graphic file (type eps)
- <one.5> [22]
-Underfull \hbox (badness 5036) in paragraph at lines 207--207
+ <one.5> [21]
+Underfull \hbox (badness 5036) in paragraph at lines 215--215
   [][]\OT1/txr/m/n/10 Swagata Sen and Sush-mita Choud-hary, Gen-Me: Word by Wor
 d, In-dia To-day (20/02/2006). Avail-
  []
 
 
-Underfull \hbox (badness 6526) in paragraph at lines 216--216
+Underfull \hbox (badness 6526) in paragraph at lines 224--224
  \OT1/txr/m/n/10 ers, Sex Work-ers Need Fem-i-nism: For A Sex Worker In-clu-siv
 e Women's Rights Move-ment" avail-
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 23 might be wrong on input line 226
+(multicol)                Footnotes on page 22 might be wrong on input line 234
 .
 
 File: one.5 Graphic file (type eps)
 <one.5>
 File: one.5 Graphic file (type eps)
- <one.5> [23]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 24 might be wrong on input line 281
-.
-
-File: one.5 Graphic file (type eps)
-<one.5>
-File: one.5 Graphic file (type eps)
- <one.5> [24])
+ <one.5> [22]
 File: one.5 Graphic file (type eps)
  <one.5>
 File: one.5 Graphic file (type eps)
- <one.5> [25]
+ <one.5> [23])
+File: one.5 Graphic file (type eps)
+ <one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [24]
 (./src/04-Gender_based_Discrimination.tex
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 26 might be wrong on input line 63.
+(multicol)                Footnotes on page 25 might be wrong on input line 64.
 
 
 File: one.5 Graphic file (type eps)
 <one.5>
 File: one.5 Graphic file (type eps)
- <one.5> [26]
-Underfull \hbox (badness 10000) in paragraph at lines 95--100
+ <one.5> [25]
+Underfull \hbox (badness 10000) in paragraph at lines 103--108
 \OT1/txr/m/n/10.95 Manobi Bandy-opad-hyay and Jhimli Mukher-jee
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 27 might be wrong on input line 117
+(multicol)                Footnotes on page 26 might be wrong on input line 128
 .
 
 File: one.5 Graphic file (type eps)
 <one.5>
 File: one.5 Graphic file (type eps)
- <one.5> [27]
+ <one.5> [26]
+Overfull \vbox (9.89162pt too high) has occurred while \output is active []
+
 File: one.5 Graphic file (type eps)
- <one.5>
+
+<one.5>
 File: one.5 Graphic file (type eps)
- <one.5> [28])
-File: one.5 Graphic file (type eps)
- <one.5>
-File: one.5 Graphic file (type eps)
- <one.5> [29]
-(./src/05-Use_of_Alternative_Dispute_Resolution.tex
+ <one.5> [27]) (./src/05-Use_of_Alternative_Dispute_Resolution.tex
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 30 might be wrong on input line 58.
+(multicol)                Footnotes on page 28 might be wrong on input line 58.
 
 
 File: one.5 Graphic file (type eps)
 <one.5>
 File: one.5 Graphic file (type eps)
- <one.5> [30]
+ <one.5> [28]
 File: src/images/chap5/001.eps Graphic file (type eps)
  <src/images/chap5/001.eps>
 LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <10.95> not available
@@ -893,24 +881,34 @@ File: one.5 Graphic file (type eps)
 
 <one.5>
 File: one.5 Graphic file (type eps)
- <one.5> [31]
+ <one.5> [29]
 File: src/images/chap5/003.eps Graphic file (type eps)
  <src/images/chap5/003.eps>
 LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <8> not available
 (Font)              Font shape `OT1/txr/bx/n' tried instead on input line 127.
-
+File: one.5 Graphic file (type eps)
+ <one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [30]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 32 might be wrong on input line 176
+(multicol)                Footnotes on page 31 might be wrong on input line 236
 .
 
 File: one.5 Graphic file (type eps)
 <one.5>
 File: one.5 Graphic file (type eps)
+ <one.5> [31]
+File: one.5 Graphic file (type eps)
+ <one.5>
+File: one.5 Graphic file (type eps)
  <one.5> [32]
+LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <10> not available
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 334.
+
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 33 might be wrong on input line 236
+(multicol)                Footnotes on page 33 might be wrong on input line 341
 .
 
 File: one.5 Graphic file (type eps)
@@ -921,12 +919,9 @@ File: one.5 Graphic file (type eps)
  <one.5>
 File: one.5 Graphic file (type eps)
  <one.5> [34]
-LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <10> not available
-(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 333.
-
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 35 might be wrong on input line 348
+(multicol)                Footnotes on page 35 might be wrong on input line 481
 .
 
 File: one.5 Graphic file (type eps)
@@ -936,34 +931,29 @@ File: one.5 Graphic file (type eps)
 File: one.5 Graphic file (type eps)
  <one.5>
 File: one.5 Graphic file (type eps)
- <one.5> [36]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 37 might be wrong on input line 483
-.
-
+ <one.5> [36])
 File: one.5 Graphic file (type eps)
-<one.5>
+ <one.5>
 File: one.5 Graphic file (type eps)
  <one.5> [37]
+(./src/06-Investigative_Journalism_in_India.tex
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 38 might be wrong on input line 561
-.
+(multicol)                Footnotes on page 38 might be wrong on input line 79.
+
 
 File: one.5 Graphic file (type eps)
 <one.5>
 File: one.5 Graphic file (type eps)
- <one.5> [38])
+ <one.5> [38]
 File: one.5 Graphic file (type eps)
  <one.5>
 File: one.5 Graphic file (type eps)
  <one.5> [39]
-(./src/06-Investigative_Journalism_in_India.tex
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 40 might be wrong on input line 79.
-
+(multicol)                Footnotes on page 40 might be wrong on input line 198
+.
 
 File: one.5 Graphic file (type eps)
 <one.5>
@@ -971,7 +961,7 @@ File: one.5 Graphic file (type eps)
  <one.5> [40]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 41 might be wrong on input line 136
+(multicol)                Footnotes on page 41 might be wrong on input line 265
 .
 
 File: one.5 Graphic file (type eps)
@@ -980,7 +970,7 @@ File: one.5 Graphic file (type eps)
  <one.5> [41]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 42 might be wrong on input line 199
+(multicol)                Footnotes on page 42 might be wrong on input line 341
 .
 
 File: one.5 Graphic file (type eps)
@@ -989,7 +979,7 @@ File: one.5 Graphic file (type eps)
  <one.5> [42]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 43 might be wrong on input line 261
+(multicol)                Footnotes on page 43 might be wrong on input line 411
 .
 
 File: one.5 Graphic file (type eps)
@@ -998,55 +988,30 @@ File: one.5 Graphic file (type eps)
  <one.5> [43]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 44 might be wrong on input line 329
+(multicol)                Footnotes on page 44 might be wrong on input line 476
 .
 
 File: one.5 Graphic file (type eps)
 <one.5>
 File: one.5 Graphic file (type eps)
  <one.5> [44]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 45 might be wrong on input line 391
-.
-
-File: one.5 Graphic file (type eps)
-<one.5>
-File: one.5 Graphic file (type eps)
- <one.5> [45]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 46 might be wrong on input line 435
-.
-
-File: one.5 Graphic file (type eps)
-<one.5>
-File: one.5 Graphic file (type eps)
- <one.5> [46]
 File: one.5 Graphic file (type eps)
  <one.5>
 File: one.5 Graphic file (type eps)
- <one.5> [47]
-Overfull \vbox (6.34052pt too high) has occurred while \output is active []
-
-File: one.5 Graphic file (type eps)
-
-<one.5>
-File: one.5 Graphic file (type eps)
- <one.5> [48])
+ <one.5> [45])
 File: one.5 Graphic file (type eps)
  <one.5>
 File: one.5 Graphic file (type eps)
- <one.5> [49
+ <one.5> [46
 
 ] (./mainfile.aux) ) 
 Here is how much of TeX's memory you used:
  7038 strings out of 481240
  101777 string characters out of 5920404
- 386027 words of memory out of 5000000
+ 383027 words of memory out of 5000000
  22141 multiletter control sequences out of 15000+600000
  565142 words of font info for 112 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 50000
  44i,18n,52p,1841b,534s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on mainfile.dvi (49 pages, 281992 bytes).
+Output written on mainfile.dvi (47 pages, 280880 bytes).

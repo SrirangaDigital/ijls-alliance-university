@@ -10,7 +10,9 @@
 \input src/contents.tex
 
 \newpage
-
+\setcounter{page}{1}
+\lfoot{\setlength\fboxsep{2pt}
+\includegraphics{one.5}\raise3pt\hbox{\calculate{\thepage}}\fbox{\thepage}}
 \input src/01-constitution_amendment
 
 \newpage
