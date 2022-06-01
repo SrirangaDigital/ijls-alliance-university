@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=latex 2021.4.6)  1 JUN 2022 12:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=latex 2021.4.6)  1 JUN 2022 13:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -535,21 +535,18 @@ Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <17.28> not available
 (Font)              Font shape `OT1/txr/bx/n' tried instead on input line 7.
 LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <9> not available
-(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 21.
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 22.
 
-LaTeX Warning: Reference `end2020-art10' on page 1 undefined on input line 48.
-
-
-Overfull \hbox (1.42264pt too wide) in alignment at lines 19--49
+Overfull \hbox (1.42264pt too wide) in alignment at lines 20--50
  [] [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 49
+Underfull \vbox (badness 10000) detected at line 50
  []
 
 
-Overfull \hbox (1.42264pt too wide) in alignment at lines 49--51
+Overfull \hbox (1.42264pt too wide) in alignment at lines 50--52
  [] [] [] 
  []
 
@@ -1370,11 +1367,7 @@ File: one.5 Graphic file (type eps)
 File: one.5 Graphic file (type eps)
  <one.5>
 File: one.5 Graphic file (type eps)
- <one.5> [83]) (./mainfile.aux)
-
-LaTeX Warning: There were undefined references.
-
- ) 
+ <one.5> [83]) (./mainfile.aux) ) 
 Here is how much of TeX's memory you used:
  7047 strings out of 481240
  102094 string characters out of 5920404
