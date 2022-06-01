@@ -6,9 +6,15 @@
 %\input guest_editorial
 %\newpage
 
+\setcounter{page}{5}
+\lfoot{\setlength\fboxsep{2pt}
+\includegraphics{one.5}\raise3pt\hbox{\calculate{\thepage}}\fbox{\romannumeral\thepage}}
 \input src/contents
 \newpage
 
+\setcounter{page}{1}
+\lfoot{\setlength\fboxsep{2pt}
+\includegraphics{one.5}\raise3pt\hbox{\calculate{\thepage}}\fbox{\thepage}}
 \input src/01-A_Critical_Comparative_Analysis
 
 \newpage
