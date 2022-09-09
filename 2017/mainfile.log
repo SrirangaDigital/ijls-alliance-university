@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=latex 2021.4.6)  1 JUN 2022 17:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=latex 2021.4.6)  7 SEP 2022 22:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -180,6 +180,22 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@lastruleclass=\count195
 \@thisrulewidth=\dimen160
 )
+(/usr/share/texlive/texmf-dist/tex/latex/fancybox/fancybox.sty
+Package: fancybox 2010/05/15 1.4
+
+Style option: `fancybox' v1.4 <2010/05/15> (tvz)
+\@fancybox=\box100
+\shadowsize=\dimen161
+\@Sbox=\box101
+\do@VerbBox=\toks19
+\the@fancyput=\toks20
+\this@fancyput=\toks21
+\EndVerbatimTokens=\toks22
+\Verbatim@Outfile=\write3
+\Verbatim@Infile=\read2
+) (/usr/share/texlive/texmf-dist/tex/latex/shipunov/boldline.sty
+Package: boldline 2008/02/04 v0.2 Adjust line width in tables
+)
 (/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip60
@@ -200,12 +216,12 @@ Package: amstext 2000/06/29 v2.01 AMS text
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks19
-\ex@=\dimen161
+\@emptytoks=\toks23
+\ex@=\dimen162
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen162
+\pmbraise@=\dimen163
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
@@ -220,9 +236,9 @@ LaTeX Info: Redefining \overline on input line 389.
 LaTeX Info: Redefining \ldots on input line 486.
 LaTeX Info: Redefining \dots on input line 489.
 LaTeX Info: Redefining \cdots on input line 610.
-\Mathstrutbox@=\box100
-\strutbox@=\box101
-\big@size=\dimen163
+\Mathstrutbox@=\box102
+\strutbox@=\box103
+\big@size=\dimen164
 LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
 \macc@depth=\count268
@@ -230,21 +246,21 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
 \dotsspace@=\muskip16
 \c@parentequation=\count270
 \dspbrk@lvl=\count271
-\tag@help=\toks20
+\tag@help=\toks24
 \row@=\count272
 \column@=\count273
 \maxfields@=\count274
-\andhelp@=\toks21
-\eqnshift@=\dimen164
-\alignsep@=\dimen165
-\tagshift@=\dimen166
-\tagwidth@=\dimen167
-\totwidth@=\dimen168
-\lineht@=\dimen169
-\@envbody=\toks22
+\andhelp@=\toks25
+\eqnshift@=\dimen165
+\alignsep@=\dimen166
+\tagshift@=\dimen167
+\tagwidth@=\dimen168
+\totwidth@=\dimen169
+\lineht@=\dimen170
+\@envbody=\toks26
 \multlinegap=\skip63
 \multlinetaggap=\skip64
-\mathdisplay@stack=\toks23
+\mathdisplay@stack=\toks27
 LaTeX Info: Redefining \[ on input line 2859.
 LaTeX Info: Redefining \] on input line 2860.
 )
@@ -256,7 +272,7 @@ Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks24
+\KV@toks@=\toks28
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
@@ -269,11 +285,11 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: dvips.def on input line 105.
 )
-\Gin@req@height=\dimen170
-\Gin@req@width=\dimen171
+\Gin@req@height=\dimen171
+\Gin@req@width=\dimen172
 )
-\epsfxsize=\dimen172
-\epsfysize=\dimen173
+\epsfxsize=\dimen173
+\epsfysize=\dimen174
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/hhline.sty
 Package: hhline 2020/01/04 v2.04 Table rule package (DPC)
@@ -313,9 +329,9 @@ Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip66
-\enit@outerparindent=\dimen174
-\enit@toks=\toks25
-\enit@inbox=\box102
+\enit@outerparindent=\dimen175
+\enit@toks=\toks29
+\enit@inbox=\box104
 \enit@count@id=\count276
 \enitdp@description=\count277
 )
@@ -441,8 +457,8 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 \c@r@tfl@t=\count278
 \rotFPtop=\skip76
 \rotFPbot=\skip77
-\rot@float@box=\box103
-\rot@mess@toks=\toks26
+\rot@float@box=\box105
+\rot@mess@toks=\toks30
 )
 (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2020/01/03 v3.4h Customizing captions (AR)
@@ -450,13 +466,13 @@ Package: caption 2020/01/03 v3.4h Customizing captions (AR)
 (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 61.
-\captionmargin=\dimen175
-\captionmargin@=\dimen176
-\captionwidth=\dimen177
-\caption@tempdima=\dimen178
-\caption@indent=\dimen179
-\caption@parindent=\dimen180
-\caption@hangindent=\dimen181
+\captionmargin=\dimen176
+\captionmargin@=\dimen177
+\captionwidth=\dimen178
+\caption@tempdima=\dimen179
+\caption@indent=\dimen180
+\caption@parindent=\dimen181
+\caption@hangindent=\dimen182
 Package caption Info: Standard document class detected.
 )
 \c@caption@flags=\count279
@@ -470,20 +486,24 @@ Package: ltcaption 2018/08/26 v1.4a longtable captions (AR)
 Package caption Info: rotating package is loaded.
 Package caption Info: threeparttable package is loaded.
 )
-\calc=\dimen182
-\partialpage=\box104
+\calc=\dimen183
+\partialpage=\box106
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
 File: l3backend-dvips.def 2020-02-03 L3 backend support: dvips
-\l__pdf_internal_box=\box105
+\l__pdf_internal_box=\box107
 \g__pdf_backend_object_int=\count281
-\l__pdf_backend_content_box=\box106
-\l__pdf_backend_model_box=\box107
+\l__pdf_backend_content_box=\box108
+\l__pdf_backend_model_box=\box109
 \g__pdf_backend_annotation_int=\count282
 \g__pdf_backend_link_int=\count283
 \g__pdf_backend_link_sf_int=\count284
 )
-(./mainfile.aux)
+(./mainfile.aux
+
+LaTeX Warning: Label `2017-art6' multiply defined.
+
+)
 \openout1 = `mainfile.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 4.
@@ -557,7 +577,11 @@ File: one.5 Graphic file (type eps)
  <one.5>
 File: one.5 Graphic file (type eps)
  <one.5>
-[5
+Overfull \hbox (2.98157pt too wide) has occurred while \output is active
+[][][][][]||  
+ []
+
+[6
 
 ] (./src/01-A_Critical_Comparative_Analysis.tex
 LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
@@ -590,12 +614,7 @@ File: utxsyc.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <12> not available
 (Font)              Font shape `OT1/txr/bx/n' tried instead on input line 11.
-LaTeX Font Info:    Trying to load font information for TS1+txr on input line 8
-4.
 
-(/usr/share/texlive/texmf-dist/tex/latex/txfonts/ts1txr.fd
-File: ts1txr.fd 2000/12/15 v3.1
-)
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 1 might be wrong on input line 95.
@@ -634,7 +653,7 @@ File: one.5 Graphic file (type eps)
  <one.5> [3]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 4 might be wrong on input line 287.
+(multicol)                Footnotes on page 4 might be wrong on input line 289.
 
 
 File: one.5 Graphic file (type eps)
@@ -696,27 +715,27 @@ File: one.5 Graphic file (type eps)
  <one.5> [8]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 9 might be wrong on input line 564.
+(multicol)                Footnotes on page 9 might be wrong on input line 559.
 
 
 File: one.5 Graphic file (type eps)
 <one.5>
 File: one.5 Graphic file (type eps)
  <one.5> [9]
-Underfull \hbox (badness 10000) in paragraph at lines 588--588
+Underfull \hbox (badness 10000) in paragraph at lines 583--583
   [][]$\OT1/txtt/m/n/10 http : / / www . freshfields . com / uploadedFiles / Si
 teWide / Knowledge / 00805 _ BS _ MBD _ COM _ Consumer _ Law _
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 594--594
+Underfull \hbox (badness 10000) in paragraph at lines 589--589
  \OT1/txtt/m/n/10 https : / / www . gov . uk / government / uploads / system / 
 uploads / attachment _ data / file / 284442 / oft1008 .
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 10 might be wrong on input line 595
+(multicol)                Footnotes on page 10 might be wrong on input line 591
 .
 
 File: one.5 Graphic file (type eps)
@@ -725,7 +744,7 @@ File: one.5 Graphic file (type eps)
  <one.5> [10]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 11 might be wrong on input line 661
+(multicol)                Footnotes on page 11 might be wrong on input line 656
 .
 
 File: one.5 Graphic file (type eps)
@@ -746,13 +765,8 @@ File: one.5 Graphic file (type eps)
 <one.5>
 File: one.5 Graphic file (type eps)
  <one.5> [13]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 14 might be wrong on input line 95.
-
-
 File: one.5 Graphic file (type eps)
-<one.5>
+ <one.5>
 File: one.5 Graphic file (type eps)
  <one.5> [14]
 
@@ -770,7 +784,7 @@ File: one.5 Graphic file (type eps)
  <one.5> [16]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 17 might be wrong on input line 279
+(multicol)                Footnotes on page 17 might be wrong on input line 280
 .
 
 File: one.5 Graphic file (type eps)
@@ -864,7 +878,7 @@ File: one.5 Graphic file (type eps)
  <one.5> [27]) (./src/05-Use_of_Alternative_Dispute_Resolution.tex
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 28 might be wrong on input line 58.
+(multicol)                Footnotes on page 28 might be wrong on input line 60.
 
 
 File: one.5 Graphic file (type eps)
@@ -961,7 +975,7 @@ File: one.5 Graphic file (type eps)
  <one.5> [40]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 41 might be wrong on input line 265
+(multicol)                Footnotes on page 41 might be wrong on input line 274
 .
 
 File: one.5 Graphic file (type eps)
@@ -970,7 +984,7 @@ File: one.5 Graphic file (type eps)
  <one.5> [41]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 42 might be wrong on input line 341
+(multicol)                Footnotes on page 42 might be wrong on input line 350
 .
 
 File: one.5 Graphic file (type eps)
@@ -979,7 +993,7 @@ File: one.5 Graphic file (type eps)
  <one.5> [42]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 43 might be wrong on input line 411
+(multicol)                Footnotes on page 43 might be wrong on input line 404
 .
 
 File: one.5 Graphic file (type eps)
@@ -988,30 +1002,51 @@ File: one.5 Graphic file (type eps)
  <one.5> [43]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 44 might be wrong on input line 476
+(multicol)                Footnotes on page 44 might be wrong on input line 474
 .
 
 File: one.5 Graphic file (type eps)
 <one.5>
 File: one.5 Graphic file (type eps)
  <one.5> [44]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 45 might be wrong on input line 530
+.
+
 File: one.5 Graphic file (type eps)
- <one.5>
+<one.5>
 File: one.5 Graphic file (type eps)
  <one.5> [45])
 File: one.5 Graphic file (type eps)
  <one.5>
 File: one.5 Graphic file (type eps)
- <one.5> [46
+ <one.5> [46] (./src/copyrightpage.tex
+LaTeX Font Info:    Trying to load font information for TS1+txr on input line 3
+2.
 
-] (./mainfile.aux) ) 
+(/usr/share/texlive/texmf-dist/tex/latex/txfonts/ts1txr.fd
+File: ts1txr.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Font shape `TS1/txr/b/n' in size <10.95> not available
+(Font)              Font shape `TS1/txr/bx/n' tried instead on input line 32.
+)
+File: one.5 Graphic file (type eps)
+ <one.5>
+File: one.5 Graphic file (type eps)
+ <one.5>
+[47] (./mainfile.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 7038 strings out of 481240
- 101777 string characters out of 5920404
- 383027 words of memory out of 5000000
- 22141 multiletter control sequences out of 15000+600000
- 565142 words of font info for 112 fonts, out of 8000000 for 9000
+ 7247 strings out of 481240
+ 104469 string characters out of 5920404
+ 386710 words of memory out of 5000000
+ 22339 multiletter control sequences out of 15000+600000
+ 565152 words of font info for 112 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 50000
  44i,18n,52p,1841b,534s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on mainfile.dvi (47 pages, 280880 bytes).
+Output written on mainfile.dvi (48 pages, 283444 bytes).

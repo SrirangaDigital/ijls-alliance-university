@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.4.6)  27 JUN 2022 22:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=latex 2021.4.6)  7 SEP 2022 21:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -11,21 +11,21 @@ Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
 File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
-\c@part=\count163
-\c@section=\count164
-\c@subsection=\count165
-\c@subsubsection=\count166
-\c@paragraph=\count167
-\c@subparagraph=\count168
-\c@figure=\count169
-\c@table=\count170
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
 ) (./ajbrmacros.tex
 (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count171
+\c@float@type=\count175
 \float@exts=\toks14
 \float@box=\box45
 \@float@everytoks=\toks15
@@ -50,24 +50,27 @@ Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
 (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package color Info: Driver file: xetex.def on input line 147.
+Package color Info: Driver file: dvips.def on input line 147.
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def
-File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/dvips.def
+File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 ))
 \everycr=\toks17
 \minrowclearance=\skip51
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
-\c@tracingmulticols=\count172
+\c@tracingmulticols=\count176
 \mult@box=\box49
 \multicol@leftmargin=\dimen137
-\c@unbalance=\count173
-\c@collectmore=\count174
-\doublecol@number=\count175
-\multicoltolerance=\count176
-\multicolpretolerance=\count177
+\c@unbalance=\count177
+\c@collectmore=\count178
+\doublecol@number=\count179
+\multicoltolerance=\count180
+\multicolpretolerance=\count181
 \full@width=\dimen138
 \page@free=\dimen139
 \premulticols=\dimen140
@@ -118,20 +121,20 @@ Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
 \@tempa=\box90
 \@tempa=\box91
 \@tempa=\box92
-\c@minrows=\count178
-\c@columnbadness=\count179
-\c@finalcolumnbadness=\count180
+\c@minrows=\count182
+\c@columnbadness=\count183
+\c@finalcolumnbadness=\count184
 \last@try=\dimen143
 \multicolovershoot=\dimen144
 \multicolundershoot=\dimen145
 \mult@nat@firstbox=\box93
 \colbreak@box=\box94
-\mc@col@check@num=\count181
+\mc@col@check@num=\count185
 )
 (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
 \multirow@colwidth=\skip54
-\multirow@cntb=\count182
+\multirow@cntb=\count186
 \multirow@dima=\skip55
 \bigstrutjot=\dimen146
 )
@@ -141,16 +144,16 @@ Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
 \LTright=\skip57
 \LTpre=\skip58
 \LTpost=\skip59
-\LTchunksize=\count183
+\LTchunksize=\count187
 \LTcapwidth=\dimen147
 \LT@head=\box95
 \LT@firsthead=\box96
 \LT@foot=\box97
 \LT@lastfoot=\box98
-\LT@cols=\count184
-\LT@rows=\count185
-\c@LT@tables=\count186
-\c@LT@chunks=\count187
+\LT@cols=\count188
+\LT@rows=\count189
+\c@LT@tables=\count190
+\c@LT@chunks=\count191
 \LT@p@ftn=\toks18
 )
 (/usr/share/texlive/texmf-dist/tex/latex/threeparttable/threeparttable.sty
@@ -169,20 +172,36 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \cmidrulesep=\dimen155
 \cmidrulekern=\dimen156
 \defaultaddspace=\dimen157
-\@cmidla=\count188
-\@cmidlb=\count189
+\@cmidla=\count192
+\@cmidlb=\count193
 \@aboverulesep=\dimen158
 \@belowrulesep=\dimen159
-\@thisruleclass=\count190
-\@lastruleclass=\count191
+\@thisruleclass=\count194
+\@lastruleclass=\count195
 \@thisrulewidth=\dimen160
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancybox/fancybox.sty
+Package: fancybox 2010/05/15 1.4
+
+Style option: `fancybox' v1.4 <2010/05/15> (tvz)
+\@fancybox=\box100
+\shadowsize=\dimen161
+\@Sbox=\box101
+\do@VerbBox=\toks19
+\the@fancyput=\toks20
+\this@fancyput=\toks21
+\EndVerbatimTokens=\toks22
+\Verbatim@Outfile=\write3
+\Verbatim@Infile=\read2
+) (/usr/share/texlive/texmf-dist/tex/latex/shipunov/boldline.sty
+Package: boldline 2008/02/04 v0.2 Adjust line width in tables
 )
 (/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip60
 \bibsep=\skip61
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count192
+\c@NAT@ctr=\count196
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/dcolumn.sty
 Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
@@ -197,51 +216,51 @@ Package: amstext 2000/06/29 v2.01 AMS text
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks19
-\ex@=\dimen161
+\@emptytoks=\toks23
+\ex@=\dimen162
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen162
+\pmbraise@=\dimen163
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count193
+\inf@bad=\count197
 LaTeX Info: Redefining \frac on input line 227.
-\uproot@=\count194
-\leftroot@=\count195
+\uproot@=\count198
+\leftroot@=\count199
 LaTeX Info: Redefining \overline on input line 389.
-\classnum@=\count196
-\DOTSCASE@=\count197
+\classnum@=\count266
+\DOTSCASE@=\count267
 LaTeX Info: Redefining \ldots on input line 486.
 LaTeX Info: Redefining \dots on input line 489.
 LaTeX Info: Redefining \cdots on input line 610.
-\Mathstrutbox@=\box100
-\strutbox@=\box101
-\big@size=\dimen163
+\Mathstrutbox@=\box102
+\strutbox@=\box103
+\big@size=\dimen164
 LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
-\macc@depth=\count198
-\c@MaxMatrixCols=\count199
+\macc@depth=\count268
+\c@MaxMatrixCols=\count269
 \dotsspace@=\muskip16
-\c@parentequation=\count266
-\dspbrk@lvl=\count267
-\tag@help=\toks20
-\row@=\count268
-\column@=\count269
-\maxfields@=\count270
-\andhelp@=\toks21
-\eqnshift@=\dimen164
-\alignsep@=\dimen165
-\tagshift@=\dimen166
-\tagwidth@=\dimen167
-\totwidth@=\dimen168
-\lineht@=\dimen169
-\@envbody=\toks22
+\c@parentequation=\count270
+\dspbrk@lvl=\count271
+\tag@help=\toks24
+\row@=\count272
+\column@=\count273
+\maxfields@=\count274
+\andhelp@=\toks25
+\eqnshift@=\dimen165
+\alignsep@=\dimen166
+\tagshift@=\dimen167
+\tagwidth@=\dimen168
+\totwidth@=\dimen169
+\lineht@=\dimen170
+\@envbody=\toks26
 \multlinegap=\skip63
 \multlinetaggap=\skip64
-\mathdisplay@stack=\toks23
+\mathdisplay@stack=\toks27
 LaTeX Info: Redefining \[ on input line 2859.
 LaTeX Info: Redefining \] on input line 2860.
 )
@@ -253,7 +272,7 @@ Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks24
+\KV@toks@=\toks28
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
@@ -264,13 +283,13 @@ Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: xetex.def on input line 105.
+Package graphics Info: Driver file: dvips.def on input line 105.
 )
-\Gin@req@height=\dimen170
-\Gin@req@width=\dimen171
+\Gin@req@height=\dimen171
+\Gin@req@width=\dimen172
 )
-\epsfxsize=\dimen172
-\epsfysize=\dimen173
+\epsfxsize=\dimen173
+\epsfysize=\dimen174
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/hhline.sty
 Package: hhline 2020/01/04 v2.04 Table rule package (DPC)
@@ -294,7 +313,7 @@ Package: quoting 2014/01/28 v0.1c Consolidated environment for displayed text
 
 (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count271
+\etb@tempcnta=\count275
 )
 (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
@@ -310,11 +329,11 @@ Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip66
-\enit@outerparindent=\dimen174
-\enit@toks=\toks25
-\enit@inbox=\box102
-\enit@count@id=\count272
-\enitdp@description=\count273
+\enit@outerparindent=\dimen175
+\enit@toks=\toks29
+\enit@inbox=\box104
+\enit@count@id=\count276
+\enitdp@description=\count277
 )
 (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrextend.sty
 Package: scrextend 2020/01/24 v3.29 KOMA-Script package (extend other classes w
@@ -435,11 +454,11 @@ Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
 (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-\c@r@tfl@t=\count274
+\c@r@tfl@t=\count278
 \rotFPtop=\skip76
 \rotFPbot=\skip77
-\rot@float@box=\box103
-\rot@mess@toks=\toks26
+\rot@float@box=\box105
+\rot@mess@toks=\toks30
 )
 (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2020/01/03 v3.4h Customizing captions (AR)
@@ -447,17 +466,17 @@ Package: caption 2020/01/03 v3.4h Customizing captions (AR)
 (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 61.
-\captionmargin=\dimen175
-\captionmargin@=\dimen176
-\captionwidth=\dimen177
-\caption@tempdima=\dimen178
-\caption@indent=\dimen179
-\caption@parindent=\dimen180
-\caption@hangindent=\dimen181
+\captionmargin=\dimen176
+\captionmargin@=\dimen177
+\captionwidth=\dimen178
+\caption@tempdima=\dimen179
+\caption@indent=\dimen180
+\caption@parindent=\dimen181
+\caption@hangindent=\dimen182
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count275
-\c@continuedfloat=\count276
+\c@caption@flags=\count279
+\c@continuedfloat=\count280
 Package caption Info: float package is loaded.
 Package caption Info: longtable package is loaded.
 
@@ -467,15 +486,18 @@ Package: ltcaption 2018/08/26 v1.4a longtable captions (AR)
 Package caption Info: rotating package is loaded.
 Package caption Info: threeparttable package is loaded.
 )
-\calc=\dimen182
-\partialpage=\box104
+\calc=\dimen183
+\partialpage=\box106
 )
-(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
-File: l3backend-xdvipdfmx.def 2020-02-03 L3 backend support: xdvipdfmx
-\g__graphics_track_int=\count277
-\l__pdf_internal_box=\box105
-\g__pdf_backend_object_int=\count278
-\g__pdf_backend_annotation_int=\count279
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
+File: l3backend-dvips.def 2020-02-03 L3 backend support: dvips
+\l__pdf_internal_box=\box107
+\g__pdf_backend_object_int=\count281
+\l__pdf_backend_content_box=\box108
+\l__pdf_backend_model_box=\box109
+\g__pdf_backend_annotation_int=\count282
+\g__pdf_backend_link_int=\count283
+\g__pdf_backend_link_sf_int=\count284
 )
 (./mainfile.aux)
 \openout1 = `mainfile.aux'.
@@ -500,14 +522,6 @@ LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
-.
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
-File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-)
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 3.
 LaTeX Font Info:    Trying to load font information for OMX+txex on input line 
@@ -525,61 +539,19 @@ LaTeX Font Info:    Trying to load font information for U+txexa on input line 3
 File: utxexa.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Trying to load font information for TU+txr on input line 3.
+LaTeX Font Info:    Trying to load font information for OT1+txr on input line 3
+.
 
-LaTeX Font Info:    No file TUtxr.fd. on input line 3.
-
-
-LaTeX Font Warning: Font shape `TU/txr/m/n' undefined
-(Font)              using `TU/lmr/m/n' instead on input line 3.
-
+(/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txr.fd
+File: ot1txr.fd 2000/12/15 v3.1
+)
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-(./src/contents.tex
-
-LaTeX Font Warning: Font shape `TU/txr/b/n' undefined
-(Font)              using `TU/txr/m/n' instead on input line 7.
-
-
-LaTeX Warning: Reference `2019-art1' on page 6 undefined on input line 24.
-
-
-LaTeX Warning: Reference `end2019-art1' on page 6 undefined on input line 24.
-
-
-LaTeX Font Warning: Font shape `TU/txr/m/sl' undefined
-(Font)              using `TU/txr/m/n' instead on input line 25.
-
-
-LaTeX Warning: Reference `2019-art2' on page 6 undefined on input line 27.
-
-
-LaTeX Warning: Reference `end2019-art2' on page 6 undefined on input line 27.
-
-
-LaTeX Warning: Reference `2019-art3' on page 6 undefined on input line 30.
-
-
-LaTeX Warning: Reference `end2019-art3' on page 6 undefined on input line 30.
-
-
-LaTeX Warning: Reference `2019-art4' on page 6 undefined on input line 33.
-
-
-LaTeX Warning: Reference `end2019-art4' on page 6 undefined on input line 33.
-
-
-LaTeX Warning: Reference `2019-art5' on page 6 undefined on input line 36.
-
-
-LaTeX Warning: Reference `end2019-art5' on page 6 undefined on input line 36.
-
-
-LaTeX Warning: Reference `2019-art6' on page 6 undefined on input line 39.
-
-
-LaTeX Warning: Reference `end2019-art6' on page 6 undefined on input line 39.
-
+ (./src/contents.tex
+LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <17.28> not available
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 7.
+LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <9> not available
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 24.
 
 Overfull \hbox (1.42264pt too wide) in alignment at lines 22--42
  [] [] [] 
@@ -590,39 +562,28 @@ Underfull \vbox (badness 10000) detected at line 42
  []
 
 )
-LaTeX Font Info:    Trying to load font information for TU+txss on input line 1
-2.
-
-No file TUtxss.fd.
-
-LaTeX Font Warning: Font shape `TU/txss/m/n' undefined
-(Font)              using `TU/lmr/m/n' instead on input line 12.
-
+LaTeX Font Info:    Trying to load font information for OT1+txss on input line 
+12.
+ (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txss.fd
+File: ot1txss.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
+(Font)              scaled to size 10.40245pt on input line 12.
 File: one.5 Graphic file (type eps)
-<one.5>
+ <one.5>
 File: one.5 Graphic file (type eps)
-<one.5>
-
-Overfull \hbox (4.19704pt too wide) has occurred while \output is active
+ <one.5>
+Overfull \hbox (2.98157pt too wide) has occurred while \output is active
 [][][][][]||  
  []
 
 [6
 
 ] (./src/01-Non_Refoulment_of_Refugees_in_India.tex
-
-LaTeX Font Warning: Font shape `TU/txss/b/n' undefined
-(Font)              using `TU/txss/m/n' instead on input line 4.
-
-
-LaTeX Font Warning: Font shape `TU/txr/m/it' undefined
-(Font)              using `TU/txr/m/sl' instead on input line 5.
-
-LaTeX Font Info:    Trying to load font information for OT1+txr on input line 5
-.
-(/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txr.fd
-File: ot1txr.fd 2000/12/15 v3.1
-)
+LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
+(Font)              scaled to size 11.39996pt on input line 4.
+LaTeX Font Info:    Font shape `OT1/txss/b/n' will be
+(Font)              scaled to size 11.39996pt on input line 4.
 LaTeX Font Info:    Trying to load font information for U+txmia on input line 5
 .
 
@@ -647,60 +608,16 @@ LaTeX Font Info:    Trying to load font information for U+txsyc on input line 5
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
 )
+LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <12> not available
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 11.
+LaTeX Font Info:    Trying to load font information for OT1+txtt on input line 
+20.
 
-LaTeX Font Warning: Font shape `TU/txr/m/it' undefined
-(Font)              using `TU/txr/m/sl' instead on input line 16.
-
-
-LaTeX Font Warning: Font shape `TU/txr/m/it' undefined
-(Font)              using `TU/txr/m/sl' instead on input line 17.
-
-
-LaTeX Font Warning: Font shape `TU/txr/m/it' undefined
-(Font)              using `TU/txr/m/sl' instead on input line 20.
-
-LaTeX Font Info:    Trying to load font information for TU+txtt on input line 2
-0.
-No file TUtxtt.fd.
-
-LaTeX Font Warning: Font shape `TU/txtt/m/n' undefined
-(Font)              using `TU/lmr/m/n' instead on input line 20.
-
-
-LaTeX Font Warning: Font shape `TU/txr/m/it' undefined
-(Font)              using `TU/txr/m/sl' instead on input line 38.
-
-
-LaTeX Font Warning: Font shape `TU/txr/m/it' undefined
-(Font)              using `TU/txr/m/sl' instead on input line 72.
-
-
-LaTeX Font Warning: Font shape `TU/txr/m/it' undefined
-(Font)              using `TU/txr/m/sl' instead on input line 73.
-
-
-LaTeX Font Warning: Font shape `TU/txr/m/it' undefined
-(Font)              using `TU/txr/m/sl' instead on input line 73.
-
-
-LaTeX Font Warning: Font shape `TU/txr/m/it' undefined
-(Font)              using `TU/txr/m/sl' instead on input line 74.
-
-
-LaTeX Font Warning: Font shape `TU/txr/m/it' undefined
-(Font)              using `TU/txr/m/sl' instead on input line 74.
-
-
-LaTeX Font Warning: Font shape `TU/txr/m/it' undefined
-(Font)              using `TU/txr/m/sl' instead on input line 76.
-
-
-LaTeX Font Warning: Font shape `TU/txr/m/it' undefined
-(Font)              using `TU/txr/m/sl' instead on input line 80.
-
-
-LaTeX Font Warning: Font shape `TU/txr/m/it' undefined
-(Font)              using `TU/txr/m/sl' instead on input line 80.
+(/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txtt.fd
+File: ot1txtt.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <10.95> not available
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 65.
 
 
 Package multicol Warning: I moved some lines to the next page.
@@ -709,143 +626,414 @@ Package multicol Warning: I moved some lines to the next page.
 File: one.5 Graphic file (type eps)
 <one.5>
 File: one.5 Graphic file (type eps)
-<one.5>
+ <one.5> [1]
+LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <12> not available
+(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 128.
 
-Overfull \hbox (0.84634pt too wide) has occurred while \output is active
-[][][][][]|  
- []
-
-[1]
-
-LaTeX Font Warning: Font shape `TU/txr/m/it' undefined
-(Font)              using `TU/txr/m/sl' instead on input line 91.
-
-
-LaTeX Font Warning: Font shape `TU/txr/m/it' undefined
-(Font)              using `TU/txr/m/sl' instead on input line 92.
-
-
-LaTeX Font Warning: Font shape `TU/txr/m/it' undefined
-(Font)              using `TU/txr/m/sl' instead on input line 99.
-
-
-LaTeX Font Warning: Font shape `TU/txr/m/it' undefined
-(Font)              using `TU/txr/m/sl' instead on input line 104.
-
-
-LaTeX Font Warning: Font shape `TU/txr/m/it' undefined
-(Font)              using `TU/txr/m/sl' instead on input line 104.
-
-
-LaTeX Font Warning: Font shape `TU/txr/m/it' undefined
-(Font)              using `TU/txr/m/sl' instead on input line 112.
-
-
-LaTeX Font Warning: Font shape `TU/txr/m/it' undefined
-(Font)              using `TU/txr/m/sl' instead on input line 124.
-
-
-LaTeX Font Warning: Font shape `TU/txr/m/it' undefined
-(Font)              using `TU/txr/m/sl' instead on input line 124.
-
-
-LaTeX Font Warning: Font shape `TU/txr/b/it' undefined
-(Font)              using `TU/txr/b/n' instead on input line 128.
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 2 might be wrong on input line 129.
+(multicol)                Footnotes on page 2 might be wrong on input line 140.
 
 
+LaTeX Font Info:    Font shape `OT1/txss/m/it' in size <10.95> not available
+(Font)              Font shape `OT1/txss/m/sl' tried instead on input line 140.
 
-LaTeX Font Warning: Font shape `TU/txr/m/it' undefined
-(Font)              using `TU/txr/m/sl' instead on input line 129.
+LaTeX Font Info:    Font shape `OT1/txss/m/sl' will be
+(Font)              scaled to size 10.40245pt on input line 140.
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [2]
 
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 3 might be wrong on input line 203.
 
-LaTeX Font Warning: Font shape `TU/txss/m/sl' undefined
-(Font)              using `TU/txss/m/n' instead on input line 129.
 
 File: one.5 Graphic file (type eps)
 <one.5>
 File: one.5 Graphic file (type eps)
-<one.5>
+ <one.5> [3]
 
-Overfull \hbox (0.84634pt too wide) has occurred while \output is active
-[][][][][]||  
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 4 might be wrong on input line 227.
+
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [4]
+File: one.5 Graphic file (type eps)
+ <one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [5]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 6 might be wrong on input line 369.
+
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [6]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 7 might be wrong on input line 435.
+
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [7]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 8 might be wrong on input line 497.
+
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [8]
+File: one.5 Graphic file (type eps)
+ <one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [9])
+File: one.5 Graphic file (type eps)
+ <one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [10]
+(./src/02-Right_to_Education_in_India.tex
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 11 might be wrong on input line 65.
+
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [11]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 12 might be wrong on input line 102
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [12]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 13 might be wrong on input line 160
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [13]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 14 might be wrong on input line 213
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [14]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 15 might be wrong on input line 282
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [15]
+Underfull \hbox (badness 10000) in paragraph at lines 308--308
+ \OT1/txtt/m/n/10 in / sites / default / files / publication _ reports / Childr
+en$\OT1/txr/m/n/10 %20in%20India%202018%20%E2%80%93%
  []
 
-[2]
 
-LaTeX Font Warning: Font shape `TU/txr/m/it' undefined
-(Font)              using `TU/txr/m/sl' instead on input line 134.
-
-
-LaTeX Font Warning: Font shape `TU/txr/m/it' undefined
-(Font)              using `TU/txr/m/sl' instead on input line 139.
+Underfull \hbox (badness 10000) in paragraph at lines 323--323
+ \OT1/txtt/m/n/10 https : / / www . dailyo . in / politics / occupy -[] ugc -[]
+ smriti -[] irani -[] higher -[] education -[] modi -[] government -[]
+ []
 
 
-LaTeX Font Warning: Font shape `TU/txr/m/it' undefined
-(Font)              using `TU/txr/m/sl' instead on input line 146.
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 16 might be wrong on input line 326
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [16]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 17 might be wrong on input line 389
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [17]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 18 might be wrong on input line 450
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [18])
+File: one.5 Graphic file (type eps)
+ <one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [19]
+(./src/03-The_Implementation_of_the_Concept.tex
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 20 might be wrong on input line 79.
 
 
-LaTeX Font Warning: Font shape `TU/txr/m/it' undefined
-(Font)              using `TU/txr/m/sl' instead on input line 146.
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [20]
+Underfull \hbox (badness 10000) in paragraph at lines 101--101
+ \OT1/txtt/m/n/10 https : / / www . ip -[] watch . org / 2013 / 01 / 22 / devel
+opment -[] in -[] indian -[] ip -[] law -[] the -[] copyright -[] amendment -[]
+
+ []
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [21]
+Underfull \hbox (badness 10000) in paragraph at lines 237--237
+ \OT1/txtt/m/n/10 https : / / www2 . deloitte . com / content / dam / Deloitte 
+/ in / Documents / technology -[]
+ []
 
 
-LaTeX Font Warning: Font shape `TU/txr/m/it' undefined
-(Font)              using `TU/txr/m/sl' instead on input line 157.
+Underfull \hbox (badness 10000) in paragraph at lines 245--245
+ \OT1/txtt/m/n/10 https : / / www . hollywoodreporter . com / news / general -[
+] news / india -[] joins -[] china -[] russiaswitzerland -[]
+ []
 
 
-LaTeX Font Warning: Font shape `TU/txr/m/it' undefined
-(Font)              using `TU/txr/m/sl' instead on input line 158.
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 22 might be wrong on input line 248
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [22]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 23 might be wrong on input line 305
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [23]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 24 might be wrong on input line 363
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [24]
+File: one.5 Graphic file (type eps)
+ <one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [25]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 26 might be wrong on input line 515
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [26])
+File: one.5 Graphic file (type eps)
+ <one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [27]
+(./src/04-Parliamentary_Privileges_in_Indian_Governance.tex
+File: one.5 Graphic file (type eps)
+ <one.5>
+File: one.5 Graphic file (type eps)
+ <one.5>
+[28]
+LaTeX Font Info:    Trying to load font information for TS1+txr on input line 9
+7.
+ (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ts1txr.fd
+File: ts1txr.fd 2000/12/15 v3.1
+)
+Missing character: There is no â in font txtt!
+Missing character: There is no € in font txtt!
+Missing character: There is no º in font txtt!
+File: one.5 Graphic file (type eps)
+ <one.5>
+File: one.5 Graphic file (type eps)
+
+<one.5> [29]
+File: one.5 Graphic file (type eps)
+ <one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [30]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 31 might be wrong on input line 279
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [31]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 32 might be wrong on input line 379
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [32])
+File: one.5 Graphic file (type eps)
+ <one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [33]
+(./src/05-The_Arbitration_Amendment_Act.tex
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 34 might be wrong on input line 69.
 
 
-LaTeX Font Warning: Font shape `TU/txr/m/it' undefined
-(Font)              using `TU/txr/m/sl' instead on input line 158.
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [34]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 35 might be wrong on input line 123
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [35]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 36 might be wrong on input line 184
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [36]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 37 might be wrong on input line 251
+.
+
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [37]
+File: one.5 Graphic file (type eps)
+ <one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [38])
+(./src/06-Right_to_Refuse_Treatment_Vis.tex
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 39 might be wrong on input line 83.
 
 
-LaTeX Font Warning: Font shape `TU/txr/m/it' undefined
-(Font)              using `TU/txr/m/sl' instead on input line 165.
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [39]
 
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 40 might be wrong on input line 128
+.
 
-LaTeX Font Warning: Font shape `TU/txr/m/it' undefined
-(Font)              using `TU/txr/m/sl' instead on input line 165.
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [40]
 
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 41 might be wrong on input line 187
+.
 
-LaTeX Font Warning: Font shape `TU/txr/m/it' undefined
-(Font)              using `TU/txr/m/sl' instead on input line 180.
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [41]
 
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 42 might be wrong on input line 267
+.
 
-LaTeX Font Warning: Font shape `TU/txr/m/it' undefined
-(Font)              using `TU/txr/m/sl' instead on input line 190.
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [42]
 
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 43 might be wrong on input line 286
+.
 
-LaTeX Font Warning: Font shape `TU/txr/m/it' undefined
-(Font)              using `TU/txr/m/sl' instead on input line 190.
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [43]
 
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 44 might be wrong on input line 338
+.
 
-LaTeX Font Warning: Font shape `TU/txr/m/it' undefined
-(Font)              using `TU/txr/m/sl' instead on input line 198.
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [44]
 
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 45 might be wrong on input line 409
+.
 
-LaTeX Font Warning: Font shape `TU/txr/m/it' undefined
-(Font)              using `TU/txr/m/sl' instead on input line 198.
+File: one.5 Graphic file (type eps)
+<one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [45]
+File: one.5 Graphic file (type eps)
+ <one.5>
+File: one.5 Graphic file (type eps)
+ <one.5> [46]) (./src/copyrightpage.tex
+LaTeX Font Info:    Font shape `TS1/txr/b/n' in size <10.95> not available
+(Font)              Font shape `TS1/txr/bx/n' tried instead on input line 33.
+)
+File: one.5 Graphic file (type eps)
+ <one.5>
+File: one.5 Graphic file (type eps)
 
+<one.5> [47] (./mainfile.aux) ) 
+Here is how much of TeX's memory you used:
+ 7230 strings out of 481240
+ 104135 string characters out of 5920404
+ 386710 words of memory out of 5000000
+ 22325 multiletter control sequences out of 15000+600000
+ 564924 words of font info for 112 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 50000
+ 44i,17n,52p,1047b,612s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-LaTeX Font Warning: Font shape `TU/txr/m/it' undefined
-(Font)              using `TU/txr/m/sl' instead on input line 198.
-
-
-LaTeX Font Warning: Font shape `TU/txr/m/it' undefined
-(Font)              using `TU/txr/m/sl' instead on input line 199.
-
-
-LaTeX Font Warning: Font shape `TU/txr/m/it' undefined
-(Font)              using `TU/txr/m/sl' instead on input line 200.
-
-
-LaTeX Font Warning: Font shape `TU/txr/m/it' undefined
-(Font)              using `TU/txr/m/sl' instead on input line 202.
-
-
-Package multicol Warning: I moved some 
+Output written on mainfile.dvi (48 pages, 290520 bytes).
